@@ -32,7 +32,7 @@ function copy_in_buffer() {
 }
 
 function onas() {
-  document.getElementById("infotext").innerText = "создавай смешной текс с помощью этого сайта. Тут есть разные стили и скоро будет много фишек, а если ты хочешь меня поддержать то вот: <пока пусто>. Сайт делал проха картоха. 2025г.";
+  document.getElementById("infotext").innerText = "создавай смешной текс с помощью этого сайта. Тут есть разные стили и скоро будет много фишек. Сайт делал проха картоха. 2025г.";
 }
 
 function translatePage(targetLang) {
